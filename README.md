@@ -1,6 +1,6 @@
 # Global Electric Vehicle Market Analysis (2015-2025)
 
-![Dashboard Preview](images/Excel dashboard-Project 1.png)
+![Dashboard Preview](images/Excel_dashboard_Project_1.png)
 *(The chart above visualizes the market trajectory, highlighting the recovery post-2023)*
 
 ## 1. Executive Summary
