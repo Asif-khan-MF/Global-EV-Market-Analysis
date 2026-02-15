@@ -1,7 +1,6 @@
 # Global Electric Vehicle Market Analysis (2015-2025)
 
 ![Dashboard Preview](images/Excel_dashboard_Project_1.png)
-*(The chart above visualizes the market trajectory, highlighting the recovery post-2023)*
 
 ## 1. Executive Summary
 **The Situation:** Between 2015 and 2022, the EV market saw explosive growth. However, in 2023, sales dropped to 2.6M units, sparking fears of a permanent "EV Market Cooling."
